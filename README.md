@@ -1,6 +1,6 @@
 #  Hi, I'm Slindokuhle
 
-###  Third-Year Software Development Student | 📊 Aspiring Data Analyst
+###  Third-Year Software Development Student |  Aspiring Data Analyst
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Development-Student-6A5ACD?style=for-the-badge" />
